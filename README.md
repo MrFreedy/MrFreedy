@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello i'm Arthur 👋 !
+I'm french **C/C++**, **Python** and **Java** developer.
 
-<!--
-**MrFreedy/MrFreedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### You want to know more about me ?
 
-Here are some ideas to get you started:
+* 💻Software developer
+    - C/C++ (Native,
+    - Java (Native, GUI,...)
+    - Python
+  ```java
+    public class MrFreedy {
+      static final String name="MrFreedy";
+      static final String job="Software Developer";
+      
+      public static void main(String[] args){
+        System.out.printf("Hello, I'm %s and I'm a %s.",name,job);
+      } 
+    }
+  ```
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrfreedy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrFreedy)](https://github.com/anuraghazra/github-readme-stats)
