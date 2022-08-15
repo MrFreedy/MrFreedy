@@ -21,4 +21,4 @@ I'm french **C/C++**, **Python** and **Java** developer.
 
 ## Github stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrfreedy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![b56xywzer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrfreedy)](https://github.com/anuraghazra/github-readme-stats)
+[![b56xywzer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrFreedy)](https://github.com/anuraghazra/github-readme-stats)
