@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&size=30&pause=1000&color=2C9AF7&background=FFFFFF00&width=700&lines=I'm+french+C%2FC%2B%2B%2C+Python+and+Java+developer.)](https://git.io/typing-svg)
 ### You want to know more about me ?
 
-* 💻Software developer
+* 💻Software developer :
     - C/C++ (Native,
     - Java (Native, GUI,...)
     - Python
