@@ -1,4 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&size=30&pause=1000&color=F7F7F7&background=FFFFFF00&width=700&lines=Hello+I'm+Arthur+%F0%9F%91%8B+!)](https://git.io/typing-svg)
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jost&size=30&pause=1000&color=2C9AF7&background=FFFFFF00&width=700&lines=I'm+french+C%2FC%2B%2B%2C+Python+and+Java+developer.)](https://git.io/typing-svg)
 ### You want to know more about me ?
@@ -24,4 +25,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrfreedy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Spotify
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mrfreedy&count=5)
+
