@@ -19,6 +19,9 @@ I'm french **C/C++**, **Python** and **Java** developer.
   ```
 ***
 
-## Github stats
+## Dev stats
+[![b56xywzer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrfreedy_tls)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrfreedy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![b56xywzer's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrfreedy_tls)](https://github.com/anuraghazra/github-readme-stats)
+
+## Spotify
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mrfreedy&count=5)
