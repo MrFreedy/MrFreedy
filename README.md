@@ -6,6 +6,7 @@
 
 * 💻Software developer :
     - Java (Native, GUI,...)
+    - C++
     - Python
   ```java
     public class MrFreedy {
