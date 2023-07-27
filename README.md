@@ -5,7 +5,7 @@
 ### You want to know more about me ?
 
 * 💻Software developer :
-    - Java (Native, GUI, Spring,...)
+    - Java (Native, GUI, Spring, Tomcat,...)
     - C# (Native, .NET,...)
     - Python
     - SQL
