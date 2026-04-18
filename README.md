@@ -10,7 +10,7 @@
     - React
     - Angular
     - Python
-    - SQL
+    - SQL / NoSQL
   ```java
     public class MrFreedy
     {
